@@ -1,0 +1,5 @@
+'hallo'
+'ich bin chris'
+'wie geht es dir'
+'das klingt gut'
+'was hast du heute gemacht'
